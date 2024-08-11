@@ -1,14 +1,8 @@
-- 👋 Hi, I’m @HermesMtz🐱‍🐉
-- 
-- 👀 I’m interested in ...
+-  Hi, I’m @HermesMtz
 - 
 - Me interesa la programacion y actualmente soy estudiante.🐱‍💻
 - 
-- 🌱 I’m currently learning ...
-- 
 - Estoy aprendiendo JavaScript.🤖
-- 
-- 📫 How to reach me ...
 - 
 - Gmail = kazooieex@gmail.com.🐱‍👓
 
